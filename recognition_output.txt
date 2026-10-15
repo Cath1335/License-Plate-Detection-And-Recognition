@@ -1,0 +1,3 @@
+Image: C:\Users\Admin\Downloads\miniproject(license)\final_lpr\recognition\crops\sample_plate_crop.jpg
+Predicted plate text: MH01CP2655
+Confidence: 94.3%
